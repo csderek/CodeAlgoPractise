@@ -1,5 +1,5 @@
 # Codeforces Round #640 (Div. 4)
-# C1. Simple Polygon Embedding
+# C2. Not So Simple Polygon Embedding
 
 You are given a regular polygon with 2⋅n vertices (it's convex and has equal sides and equal angles) and all its sides have length 1. Let's name it as 2n-gon.
 
