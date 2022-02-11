@@ -15,13 +15,13 @@
 
 ## Leetcode
 
-- Easy
+* Easy
 
-- Medium
+* Medium
 
--- [567. Permutation in String](https://github.com/csderek/ProgrammingContest/tree/master/Leetcode/Medium/Permutation%20in%20String)
+  * [567. Permutation in String](https://github.com/csderek/ProgrammingContest/tree/master/Leetcode/Medium/Permutation%20in%20String)
 
-- Hard
+* Hard
 
 ## Algoexpert
 
