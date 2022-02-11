@@ -17,6 +17,8 @@
 
 * Easy
 
+  * [1. Two Sum](https://github.com/csderek/ProgrammingContest/tree/master/Leetcode/Easy/Two%20Sum)
+
 * Medium
 
   * [567. Permutation in String](https://github.com/csderek/ProgrammingContest/tree/master/Leetcode/Medium/Permutation%20in%20String)
