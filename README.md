@@ -23,6 +23,8 @@
 
 ## Hashcode
 
+## Kickstart
+
 ## CodinGame
 
 ## CodeChef
