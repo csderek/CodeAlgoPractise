@@ -18,7 +18,7 @@
 
 * Medium
   * [2. Add Two Numbers](https://github.com/csderek/ProgrammingContest/tree/master/Leetcode/Medium/Add%20Two%20Numbers)
-  * [3. Longest Substring Without Repeating Characters](https://github.com/csderek/ProgrammingContest/tree/master/Leetcode/Medium/Add%20Two%20Numbers)
+  * [3. Longest Substring Without Repeating Characters](https://github.com/csderek/CodeAlgoPractise/tree/master/Leetcode/Medium/Longest%20Substring%20Without%20Repeating%20Characters)
   * [567. Permutation in String](https://github.com/csderek/ProgrammingContest/tree/master/Leetcode/Medium/Permutation%20in%20String)
 
 * Hard
