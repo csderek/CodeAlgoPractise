@@ -20,7 +20,7 @@
   * [1. Two Sum](https://github.com/csderek/ProgrammingContest/tree/master/Leetcode/Easy/Two%20Sum)
 
 * Medium
-
+  * [2. Add Two Numbers](https://github.com/csderek/ProgrammingContest/tree/master/Leetcode/Medium/Add%20Two%20Numbers)
   * [567. Permutation in String](https://github.com/csderek/ProgrammingContest/tree/master/Leetcode/Medium/Permutation%20in%20String)
 
 * Hard
