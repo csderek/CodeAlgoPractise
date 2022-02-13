@@ -21,6 +21,7 @@
   * [3. Longest Substring Without Repeating Characters](./Leetcode/Medium/Longest%20Substring%20Without%20Repeating%20Characters)
   * [5. Longest Palindromic Substring](./Leetcode/Medium/Longest%20Palindromic%20Substring)
   * [6. Zigzag Conversion](./Leetcode/Medium/Zigzag%20Conversion/)
+  * [7. Reverse Integer](./Leetcode/Medium/Reverse%20Integer/)
   * [78. Subsets](./Leetcode/Medium/Subsets/)
   * [567. Permutation in String](./Leetcode/Medium/Permutation%20in%20String)
 
