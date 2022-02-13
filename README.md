@@ -14,7 +14,7 @@
 ## Leetcode
 
 * Easy
-  * [1. Two Sum](https://github.com/csderek/ProgrammingContest/tree/master/Leetcode/Easy/Two%20Sum)
+  * [1. Two Sum](./Leetcode/Easy/Two%20Sum)
 
 * Medium
   * [2. Add Two Numbers](https://github.com/csderek/ProgrammingContest/tree/master/Leetcode/Medium/Add%20Two%20Numbers)
