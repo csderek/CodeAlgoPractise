@@ -15,6 +15,7 @@
 
 * Easy
   * [1. Two Sum](./Leetcode/Easy/Two%20Sum)
+  * [9. Palindrome Number](./Leetcode/Easy/Palindrome%20Number/)
 
 * Medium
   * [2. Add Two Numbers](./Leetcode/Medium/Add%20Two%20Numbers)
