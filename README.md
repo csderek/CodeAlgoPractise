@@ -20,6 +20,7 @@
   * [2. Add Two Numbers](./Leetcode/Medium/Add%20Two%20Numbers)
   * [3. Longest Substring Without Repeating Characters](./Leetcode/Medium/Longest%20Substring%20Without%20Repeating%20Characters)
   * [5. Longest Palindromic Substring](./Leetcode/Medium/Longest%20Palindromic%20Substring)
+  * [6. Zigzag Conversion](./Leetcode/Medium/Zigzag Conversion/)
   * [567. Permutation in String](./Leetcode/Medium/Permutation%20in%20String)
 
 * Hard
