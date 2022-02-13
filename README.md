@@ -22,6 +22,7 @@
   * [567. Permutation in String](https://github.com/csderek/ProgrammingContest/tree/master/Leetcode/Medium/Permutation%20in%20String)
 
 * Hard
+  * [4. Median of Two Sorted Arrays](https://github.com/csderek/ProgrammingContest/tree/master/Leetcode/Hard/Median%20of%20Two%20Sorted%20Arrays)
   * [127. Word Ladder](https://github.com/csderek/ProgrammingContest/tree/master/Leetcode/Hard/Word%20Ladder)
 
 ## Algoexpert
