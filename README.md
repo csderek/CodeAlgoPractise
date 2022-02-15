@@ -31,6 +31,7 @@
 
 * Hard
   * [4. Median of Two Sorted Arrays](./Leetcode/Hard/Median%20of%20Two%20Sorted%20Arrays)
+  * [10. Regular Expression Matching](./Leetcode/Hard/Regular-Expression-Matching/)
   * [127. Word Ladder](./Leetcode/Hard/Word%20Ladder)
 
 ## Algoexpert
