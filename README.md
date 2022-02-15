@@ -16,6 +16,7 @@
 * Easy
   * [1. Two Sum](./Leetcode/Easy/Two%20Sum)
   * [9. Palindrome Number](./Leetcode/Easy/Palindrome%20Number/)
+  * [13. Roman to Integer](./Leetcode/Easy/Roman-to-Integer/)
   * [104. Maximum Depth of Binary Tree](./Leetcode/Easy/Maximum%20Depth%20of%20Binary%20Tree/)
   * [136. Single Number](./Leetcode/Easy/Single%20Number/)
 

@@ -2,7 +2,7 @@ import java.util.*;
 
 class Solution {
     public String intToRoman(int num) {
-        HashMap<Integer,String> map = new HashMap();
+        HashMap<Integer,String> map = new HashMap<Integer,String>();
         map.put(1, "I");
         map.put(4, "IV");
         map.put(5, "V");
