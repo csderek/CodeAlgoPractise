@@ -29,6 +29,7 @@
   * [8. String to Integer (atoi)](./Leetcode/Medium/String%20to%20Integer%20(atoi)/)
   * [11. Container With Most Water](./Leetcode/Medium/Container-With-Most-Water/)
   * [12. Integer to Roman](./Leetcode/Medium/Integer-to-Roman/)
+  * [24. Swap Nodes in Pairs](./Leetcode/Medium/Swap-Nodes-in-Pairs/)
   * [78. Subsets](./Leetcode/Medium/Subsets/)
   * [567. Permutation in String](./Leetcode/Medium/Permutation%20in%20String)
 
