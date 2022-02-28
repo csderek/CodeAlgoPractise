@@ -20,6 +20,7 @@
   * [14. Longest Common Prefix](./Leetcode/Easy/Longest-Common-Prefix/)
   * [104. Maximum Depth of Binary Tree](./Leetcode/Easy/Maximum%20Depth%20of%20Binary%20Tree/)
   * [136. Single Number](./Leetcode/Easy/Single%20Number/)
+  * [228. Summary Ranges](./Leetcode/Easy/Summary-Ranges/)
 
 * Medium
   * [2. Add Two Numbers](./Leetcode/Medium/Add%20Two%20Numbers)
