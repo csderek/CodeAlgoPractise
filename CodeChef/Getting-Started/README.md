@@ -1,5 +1,8 @@
-[1. Number Mirror](https://www.codechef.com/LP0TO101/problems/START01)
-[2. Enormous Input Test](https://www.codechef.com/LP0TO101/problems/INTEST)
-[3. Find Remainder](https://www.codechef.com/LP0TO101/submit/FLOW002)
-[4. Sum of Digits](https://www.codechef.com/LP0TO101/problems/FLOW006)
-[5. Reverse The Number](https://www.codechef.com/LP0TO101/problems/FLOW007)
+# Getting Started
+
+[Number Mirror](https://www.codechef.com/LP0TO101/problems/START01)
+[Enormous Input Test](https://www.codechef.com/LP0TO101/problems/INTEST)
+[Find Remainder](https://www.codechef.com/LP0TO101/submit/FLOW002)
+[Sum of Digits](https://www.codechef.com/LP0TO101/problems/FLOW006)
+[Reverse The Number](https://www.codechef.com/LP0TO101/problems/FLOW007)
+[Chef And Operator](https://www.codechef.com/LP0TO101/problems/CHOPRT)
