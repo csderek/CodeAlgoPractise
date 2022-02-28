@@ -7,3 +7,4 @@
 [Reverse The Number](https://www.codechef.com/LP0TO101/problems/FLOW007)
 [Chef And Operator](https://www.codechef.com/LP0TO101/problems/CHOPRT)
 [ATM](https://www.codechef.com/LP0TO101/problems/HS08TEST)
+[First and Last Digit](https://www.codechef.com/LP0TO101/problems/FLOW004)
