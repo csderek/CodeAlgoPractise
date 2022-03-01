@@ -8,4 +8,5 @@
 * [Chef And Operator](https://www.codechef.com/LP0TO101/problems/CHOPRT)
 * [ATM](https://www.codechef.com/LP0TO101/problems/HS08TEST)
 * [First and Last Digit](https://www.codechef.com/LP0TO101/problems/FLOW004)
-* [Lucky Four](https://www.codechef.com/LP0TO101/submit/LUCKFOUR)
+* [Lucky Four](https://www.codechef.com/LP0TO101/problems/LUCKFOUR)
+* [Valid Triangle](https://www.codechef.com/LP0TO101/problems/FLOW013)
