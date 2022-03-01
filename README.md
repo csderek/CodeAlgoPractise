@@ -21,6 +21,7 @@
   * [104. Maximum Depth of Binary Tree](./Leetcode/Easy/Maximum%20Depth%20of%20Binary%20Tree/)
   * [136. Single Number](./Leetcode/Easy/Single%20Number/)
   * [228. Summary Ranges](./Leetcode/Easy/Summary-Ranges/)
+  * [338. Counting Bits](./Leetcode/Easy/Counting-Bits/)
 
 * Medium
   * [2. Add Two Numbers](./Leetcode/Medium/Add%20Two%20Numbers)
