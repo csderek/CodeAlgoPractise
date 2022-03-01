@@ -59,6 +59,7 @@
 ## CodeChef
 
 * [Getting Started](./CodeChef/Getting-Started/)
+* [Basic programming concepts](./CodeChef/Basic-programming-concepts/)
 
 ## Project Euler
 
