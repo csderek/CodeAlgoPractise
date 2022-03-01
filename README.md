@@ -58,6 +58,8 @@
 
 ## CodeChef
 
+* [Getting Started](./CodeChef/Getting-Started/)
+
 ## Project Euler
 
 ## TopCoder
