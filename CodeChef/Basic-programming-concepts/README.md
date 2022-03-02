@@ -12,3 +12,4 @@ Question Link:
 * [Programming Languages](https://www.codechef.com/LP1TO201/problems/PROGLANG)
 * [Problem Category](https://www.codechef.com/LP1TO201/problems/PROBCAT)
 * [Smallest Possible Whole Number](https://www.codechef.com/LP1TO201/problems/SMOL/)
+* [Weight Balance](https://www.codechef.com/LP1TO201/problems/WEIGHTBL)
