@@ -11,3 +11,4 @@ Question Link:
 * [Two Dishes](https://www.codechef.com/LP1TO201/problems/TWODISH)
 * [Programming Languages](https://www.codechef.com/LP1TO201/problems/PROGLANG)
 * [Problem Category](https://www.codechef.com/LP1TO201/problems/PROBCAT)
+* [Smallest Possible Whole Number](https://www.codechef.com/LP1TO201/problems/SMOL/)
