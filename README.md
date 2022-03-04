@@ -40,6 +40,7 @@
   * [78. Subsets](./Leetcode/Medium/Subsets/)
   * [413. Arithmetic Slices](./Leetcode/Medium/Arithmetic-Slices/)
   * [567. Permutation in String](./Leetcode/Medium/Permutation%20in%20String)
+  * [799. Champagne Tower](./Leetcode/Medium/Champagne-Tower/)
 
 * Hard
   * [4. Median of Two Sorted Arrays](./Leetcode/Hard/Median%20of%20Two%20Sorted%20Arrays)
