@@ -23,6 +23,7 @@
   * [228. Summary Ranges](./Leetcode/Easy/Summary-Ranges/)
   * [338. Counting Bits](./Leetcode/Easy/Counting-Bits/)
   * [392. Is Subsequence](./Leetcode/Easy/Is-Subsequence/)
+  * [844. Backspace String Compare](./Leetcode/Easy/Backspace-String-Compare/)
 
 * Medium
   * [2. Add Two Numbers](./Leetcode/Medium/Add%20Two%20Numbers)
