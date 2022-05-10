@@ -21,6 +21,7 @@
   * [104. Maximum Depth of Binary Tree](./Leetcode/Easy/Maximum%20Depth%20of%20Binary%20Tree/)
   * [136. Single Number](./Leetcode/Easy/Single%20Number/)
   * [175. Combine Two Tables](./Leetcode/Easy/Combine-Two-Tables/)
+  * [225. Implement Stack using Queues](./Leetcode/Easy/Implement-Stack-using-Queues/)
   * [228. Summary Ranges](./Leetcode/Easy/Summary-Ranges/)
   * [338. Counting Bits](./Leetcode/Easy/Counting-Bits/)
   * [392. Is Subsequence](./Leetcode/Easy/Is-Subsequence/)
