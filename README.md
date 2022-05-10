@@ -41,6 +41,7 @@
   * [17. Letter Combinations of a Phone Number](./Leetcode/Medium/Letter-Combinations-of-a-Phone-Number/)
   * [24. Swap Nodes in Pairs](./Leetcode/Medium/Swap-Nodes-in-Pairs/)
   * [78. Subsets](./Leetcode/Medium/Subsets/)
+  * [176. Second Highest Salary](./Leetcode/Medium/Second-Highest-Salary/)
   * [216. Combination Sum III](./Leetcode/Medium/Combination-Sum-III/)
   * [341. Flatten Nested List Iterator](./Leetcode/Medium/Flatten-Nested-List-Iterator/)
   * [413. Arithmetic Slices](./Leetcode/Medium/Arithmetic-Slices/)
