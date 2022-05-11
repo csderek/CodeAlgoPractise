@@ -49,6 +49,7 @@
   * [567. Permutation in String](./Leetcode/Medium/Permutation%20in%20String)
   * [581. Shortest Unsorted Continuous Subarray](./Leetcode/Medium/Shortest-Unsorted-Continuous-Subarray/)
   * [799. Champagne Tower](./Leetcode/Medium/Champagne-Tower/)
+  * [1641. Count Sorted Vowel Strings](./Leetcode/Medium/Count-Sorted-Vowel-Strings/)
   * [1679. Max Number of K-Sum Pairs](./Leetcode/Medium/Max-Number-of-K-Sum-Pairs/)
 
 * Hard
