@@ -5,7 +5,7 @@ Given a 2D integer array matrix, return the transpose of matrix.
 
 The transpose of a matrix is the matrix flipped over its main diagonal, switching the matrix's row and column indices.
 
-!(https://assets.leetcode.com/uploads/2021/02/10/hint_transpose.png) 
+![](https://assets.leetcode.com/uploads/2021/02/10/hint_transpose.png) 
 
 Example 1:
 ```
