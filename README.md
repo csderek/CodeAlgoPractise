@@ -19,6 +19,7 @@
   * [13. Roman to Integer](./Leetcode/Easy/Roman-to-Integer/)
   * [14. Longest Common Prefix](./Leetcode/Easy/Longest-Common-Prefix/)
   * [104. Maximum Depth of Binary Tree](./Leetcode/Easy/Maximum%20Depth%20of%20Binary%20Tree/)
+  * [160. Intersection of Two Linked Lists](./Leetcode/Easy/Intersection-of-two-linked-lists/)
   * [136. Single Number](./Leetcode/Easy/Single%20Number/)
   * [175. Combine Two Tables](./Leetcode/Easy/Combine-Two-Tables/)
   * [225. Implement Stack using Queues](./Leetcode/Easy/Implement-Stack-using-Queues/)
