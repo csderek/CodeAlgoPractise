@@ -32,6 +32,7 @@
   * [844. Backspace String Compare](./Leetcode/Easy/Backspace-String-Compare/)
   * [867. Transpose Matrix](./Leetcode/Easy/Transpose-matrix/)
   * [905. Sort Array By Parity](./Leetcode/Easy/Sort-Array-By-Parity/)
+  * [1332. Remove Palindromic Subsequences](./Leetcode/Easy/Remove-palindromic-subsequences/)
   * [1461. Check If a String Contains All Binary Codes of Size K](./Leetcode/Easy/Running-sum-of-1d-array/)
 
 * Medium
