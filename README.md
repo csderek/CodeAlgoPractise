@@ -83,6 +83,11 @@
 * [Getting Started](./CodeChef/Getting-Started/)
 * [Basic programming concepts](./CodeChef/Basic-programming-concepts/)
 
+## HackerRank
+
+* [Hack the Interview IV (Asia Pacific)](https://www.hackerrank.com/contests/hack-the-interview-iv-apac/challenges)
+  * [Valid Binary String](./Hackerank/Hack-the-interview-iv-apac/Valid-Binary-String/)
+
 ## Project Euler
 
 ## TopCoder
