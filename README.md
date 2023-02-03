@@ -96,3 +96,6 @@
 ## TopCoder
 
 ## Geeks for Geeks
+
+* Low
+  * [Min-Operations](./Geeksforheeks/Low/Min-Operations/)
