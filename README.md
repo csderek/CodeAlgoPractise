@@ -25,6 +25,7 @@
   * [175. Combine Two Tables](./Leetcode/Easy/Combine-Two-Tables/)
   * [225. Implement Stack using Queues](./Leetcode/Easy/Implement-Stack-using-Queues/)
   * [228. Summary Ranges](./Leetcode/Easy/Summary-Ranges/)
+  * [260. Word Pattern](./Leetcode/Easy/Word-Pattern/)
   * [338. Counting Bits](./Leetcode/Easy/Counting-Bits/)
   * [344. Reverse String](./Leetcode/Easy/Reverse-String/)
   * [392. Is Subsequence](./Leetcode/Easy/Is-Subsequence/)
