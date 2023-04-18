@@ -85,6 +85,9 @@
 
 ## CodinGame
 
+* Easy
+  * [Power of Thor - Episode 1](./CodinGame/Easy/POWER-OF-THOR-EPISODE-1/)
+
 ## CodeChef
 
 * [Getting Started](./CodeChef/Getting-Started/)
