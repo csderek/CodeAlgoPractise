@@ -37,6 +37,7 @@
   * [1332. Remove Palindromic Subsequences](./Leetcode/Easy/Remove-palindromic-subsequences/)
   * [1431. Kids With the Greatest Number of Candies](./Leetcode/Easy/Kids-With-the-Greatest-Number-of-Candies/)
   * [1461. Check If a String Contains All Binary Codes of Size K](./Leetcode/Easy/Running-sum-of-1d-array/)
+  * [1768. Merge Strings Alternately](./Leetcode/Easy/Merge-Strings-Alternately/)
 
 * Medium
   * [2. Add Two Numbers](./Leetcode/Medium/Add%20Two%20Numbers)
