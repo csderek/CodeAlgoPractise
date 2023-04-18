@@ -75,6 +75,9 @@
 ## Coderbyte
 
 ## CodeJam
+* Kick Start 2022
+  * Round H
+    * [Running in Circles](./CodeJam/KickStart2022/RoundH/Running-in-circles/)
 
 ## Hashcode
 
