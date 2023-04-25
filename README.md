@@ -66,6 +66,7 @@
   * [413. Arithmetic Slices](./Leetcode/Medium/Arithmetic-Slices/)
   * [567. Permutation in String](./Leetcode/Medium/Permutation%20in%20String)
   * [581. Shortest Unsorted Continuous Subarray](./Leetcode/Medium/Shortest-Unsorted-Continuous-Subarray/)
+  * [746. Min Cost Climbing Stairs](./Leetcode/Easy/Min-Cost-Climbing-Stairs/)
   * [799. Champagne Tower](./Leetcode/Medium/Champagne-Tower/)
   * [1461. Check If a String Contains All Binary Codes of Size K](./Leetcode/Medium/Check-if-a-string-contains-all-binary-codes-of-size-k/)
   * [1641. Count Sorted Vowel Strings](./Leetcode/Medium/Count-Sorted-Vowel-Strings/)
