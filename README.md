@@ -19,6 +19,7 @@
   * [13. Roman to Integer](./Leetcode/Easy/Roman-to-Integer/)
   * [14. Longest Common Prefix](./Leetcode/Easy/Longest-Common-Prefix/)
   * [20. Valid Parentheses](./Leetcode/Easy/Valid-Parentheses/)
+  * [70. Climbing Stairs](./Leetcode/Easy/Climbing-Stairs/)
   * [88. Merge Sorted Array](./Leetcode/Easy/Merge-sorted-array/)
   * [104. Maximum Depth of Binary Tree](./Leetcode/Easy/Maximum%20Depth%20of%20Binary%20Tree/)
   * [136. Single Number](./Leetcode/Easy/Single%20Number/)
@@ -69,6 +70,7 @@
   * [1461. Check If a String Contains All Binary Codes of Size K](./Leetcode/Medium/Check-if-a-string-contains-all-binary-codes-of-size-k/)
   * [1641. Count Sorted Vowel Strings](./Leetcode/Medium/Count-Sorted-Vowel-Strings/)
   * [1679. Max Number of K-Sum Pairs](./Leetcode/Medium/Max-Number-of-K-Sum-Pairs/)
+  * [2336. Smallest Number in Infinite Set](./Leetcode/Medium/Smallest-Number-in-Infinite-Set/)
 
 * Hard
   * [4. Median of Two Sorted Arrays](./Leetcode/Hard/Median%20of%20Two%20Sorted%20Arrays)
