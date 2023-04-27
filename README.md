@@ -63,6 +63,7 @@
   * [167. Two Sum II - Input Array Is Sorted](./Leetcode/Medium/Two-sum-ii-input-array-is-sorte/)
   * [176. Second Highest Salary](./Leetcode/Medium/Second-Highest-Salary/)
   * [216. Combination Sum III](./Leetcode/Medium/Combination-Sum-III/)
+  * [319. Bulb Switcher](./Leetcode/Medium/Bulb%20Switcher/)
   * [341. Flatten Nested List Iterator](./Leetcode/Medium/Flatten-Nested-List-Iterator/)
   * [413. Arithmetic Slices](./Leetcode/Medium/Arithmetic-Slices/)
   * [567. Permutation in String](./Leetcode/Medium/Permutation%20in%20String)
