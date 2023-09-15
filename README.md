@@ -71,6 +71,7 @@
   * [746. Min Cost Climbing Stairs](./Leetcode/Easy/Min-Cost-Climbing-Stairs/)
   * [799. Champagne Tower](./Leetcode/Medium/Champagne-Tower/)
   * [1461. Check If a String Contains All Binary Codes of Size K](./Leetcode/Medium/Check-if-a-string-contains-all-binary-codes-of-size-k/)
+  * [1584. Min Cost to Connect All Points](./Leetcode/Medium/Min-Cost-to-Connect-All-Points/)
   * [1641. Count Sorted Vowel Strings](./Leetcode/Medium/Count-Sorted-Vowel-Strings/)
   * [1679. Max Number of K-Sum Pairs](./Leetcode/Medium/Max-Number-of-K-Sum-Pairs/)
   * [2336. Smallest Number in Infinite Set](./Leetcode/Medium/Smallest-Number-in-Infinite-Set/)
