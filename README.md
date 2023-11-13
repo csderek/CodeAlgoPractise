@@ -77,6 +77,7 @@
   * [1679. Max Number of K-Sum Pairs](./Leetcode/Medium/Max-Number-of-K-Sum-Pairs/)
   * [1743. Restore the array from adjacent pairs](./Leetcode/Medium/Restore-the-array-from-adjacent-pairs/)
   * [2336. Smallest Number in Infinite Set](./Leetcode/Medium/Smallest-Number-in-Infinite-Set/)
+  * [2785. Sort vowels in a string](./Leetcode/Medium/Sort-vowels-in-a-string/)
   * [2849 Determine if a cell is reachable at a given time](./Leetcode/Medium/Determine-if-a-cell-is-reachable-at-a-given-time/)
 
 * Hard
