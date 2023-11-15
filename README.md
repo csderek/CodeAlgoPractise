@@ -126,3 +126,23 @@
 
 * Low
   * [Min-Operations](./Geeksforheeks/Low/Min-Operations/)
+
+## ICPC
+
+## HackerEarth
+
+## Online Judge(UVa)
+
+## Exercism
+
+## LightOJ
+
+## Toph
+
+## SPOJ
+
+## AtCoder
+
+## Kaggle
+
+## beecrowd
