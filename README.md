@@ -136,6 +136,10 @@
 
 ## Exercism
 
+* Go
+  * Easy
+    * [Two Fer](./Exercism/Go/Easy/TwoFer/)
+
 ## LightOJ
 
 ## Toph
