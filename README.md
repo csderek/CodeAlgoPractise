@@ -151,3 +151,8 @@
 ## Kaggle
 
 ## beecrowd
+
+## InterviewBit
+
+* Easy
+  * [Majority Element](./InterviewBit/Easy/Majority-Element/) 
