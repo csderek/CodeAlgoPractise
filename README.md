@@ -156,3 +156,6 @@
 
 * Easy
   * [Majority Element](./InterviewBit/Easy/Majority-Element/) 
+
+* Medium
+  * [Gas Station](./InterviewBit/Medium/Gas-Station/)
