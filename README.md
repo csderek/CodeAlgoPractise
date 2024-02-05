@@ -31,6 +31,7 @@
   * [260. Word Pattern](./Leetcode/Easy/Word-Pattern/)
   * [338. Counting Bits](./Leetcode/Easy/Counting-Bits/)
   * [344. Reverse String](./Leetcode/Easy/Reverse-String/)
+  * [387. First Unique Character In A String](./Leetcode/Easy/First-unique-character-in-a-string/)
   * [392. Is Subsequence](./Leetcode/Easy/Is-Subsequence/)
   * [509. Fibonacci Number](./Leetcode/Easy/Fibonacci-Number/)
   * [680. Valid Palindrome II](./Leetcode/Easy/Valid-Palindrome-II/)
