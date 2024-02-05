@@ -127,10 +127,10 @@
 ## Geeks for Geeks
 
 * Easy
-  * [Missing number in array]
+  * [Missing number in array](./GeeksforGeeks/Easy/Missing-number-in-array/)
 
 * Low
-  * [Min-Operations](./Geeksforheeks/Low/Min-Operations/)
+  * [Min-Operations](./GeeksforGeeks/Low/Min-Operations/)
 
 ## ICPC
 
