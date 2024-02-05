@@ -126,6 +126,9 @@
 
 ## Geeks for Geeks
 
+* Easy
+  * [Missing number in array]
+
 * Low
   * [Min-Operations](./Geeksforheeks/Low/Min-Operations/)
 
