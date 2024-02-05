@@ -160,3 +160,4 @@
 * Medium
   * [Gas Station](./InterviewBit/Medium/Gas-Station/)
   * [Distribute Candy](./InterviewBit/Medium/Distribute-Candy/)
+  * [Longest Increasing Subsequence](./InterviewBit/Medium/Longest-Increasing-Subsequence/)
