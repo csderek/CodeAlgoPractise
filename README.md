@@ -133,6 +133,7 @@
   * [Missing number in array](./GeeksforGeeks/Easy/Missing-number-in-array/)
   * [Check if all leaves are at same level](./GeeksforGeeks/Easy/Check-if-all-leaves-are-at-same-level/)
   * [Leaders in an array](./GeeksforGeeks/Easy/leaders-in-an-array/)
+  * [nCr](./GeeksforGeeks/Easy/ncr/)
 
 * Low
   * [Min-Operations](./GeeksforGeeks/Low/Min-Operations/)
