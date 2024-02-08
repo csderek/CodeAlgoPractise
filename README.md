@@ -131,6 +131,7 @@
 
 * Easy
   * [Missing number in array](./GeeksforGeeks/Easy/Missing-number-in-array/)
+  * [Check if all leaves are at same level](./GeeksforGeeks/Easy/Check-if-all-leaves-are-at-same-level/)
 
 * Low
   * [Min-Operations](./GeeksforGeeks/Low/Min-Operations/)
