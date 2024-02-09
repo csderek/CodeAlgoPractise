@@ -136,8 +136,12 @@
   * [Leaders in an array](./GeeksforGeeks/Easy/leaders-in-an-array/)
   * [nCr](./GeeksforGeeks/Easy/ncr/)
 
+* Medium
+  * [Check for Children Sum Property in a Binary Tree](./GeeksforGeeks/Medium/Children-sum-parent/)
+
 * Low
   * [Min-Operations](./GeeksforGeeks/Low/Min-Operations/)
+
 
 ## ICPC
 
