@@ -85,7 +85,8 @@
   * [1980. Find unique binary string](./Leetcode/Medium/Find-unique-binary-string/)
   * [2336. Smallest Number in Infinite Set](./Leetcode/Medium/Smallest-Number-in-Infinite-Set/)
   * [2785. Sort vowels in a string](./Leetcode/Medium/Sort-vowels-in-a-string/)
-  * [2849 Determine if a cell is reachable at a given time](./Leetcode/Medium/Determine-if-a-cell-is-reachable-at-a-given-time/)
+  * [2849. Determine if a cell is reachable at a given time](./Leetcode/Medium/Determine-if-a-cell-is-reachable-at-a-given-time/)
+  * [2971. Find Polygon With The Largest Perimeter](./Leetcode/Medium/Find-polygon-with-the-largest-perimeter/)
 
 * Hard
   * [4. Median of Two Sorted Arrays](./Leetcode/Hard/Median%20of%20Two%20Sorted%20Arrays)
@@ -138,6 +139,7 @@
 
 * Medium
   * [Check for Children Sum Property in a Binary Tree](./GeeksforGeeks/Medium/Children-sum-parent/)
+  * [Minimum number of jumps](./GeeksforGeeks/Medium/Minimum-number-of-jumps/)
 
 * Low
   * [Min-Operations](./GeeksforGeeks/Low/Min-Operations/)
