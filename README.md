@@ -129,6 +129,7 @@
 * [Problem 1 Multiples of 3 or 5](./Project%20Euler/Problem1/)
 * [Problem 2 Even Fibonacci Numbers](./Project%20Euler/Problem2/)
 * [Problem 3 Largest Prime Factor](./Project%20Euler/Problem3/)
+* [Problem 4 Largest Palindrome Product](./Project%20Euler/Problem4/)
 
 ## TopCoder
 
