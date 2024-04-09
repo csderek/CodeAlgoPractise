@@ -131,6 +131,7 @@
 * [Problem 3 Largest Prime Factor](./Project%20Euler/Problem3/)
 * [Problem 4 Largest Palindrome Product](./Project%20Euler/Problem4/)
 * [Problem 5 Smallest Multiple](./Project%20Euler/Problem5/)
+* [Problem 6 Sum Square Difference](./Project%20Euler/Problem6/)
 
 ## TopCoder
 
