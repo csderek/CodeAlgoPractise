@@ -126,6 +126,7 @@
   * [Valid Binary String](./Hackerank/Hack-the-interview-iv-apac/Valid-Binary-String/)
 
 ## Project Euler
+* [Problem 1 Multiples of 3 or 5](./Project%20Euler/Problem1/)
 
 ## TopCoder
 
