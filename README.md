@@ -132,6 +132,7 @@
 * [Problem 4 Largest Palindrome Product](./Project%20Euler/Problem4/)
 * [Problem 5 Smallest Multiple](./Project%20Euler/Problem5/)
 * [Problem 6 Sum Square Difference](./Project%20Euler/Problem6/)
+* [Problem 7 10001st Prime](./Project%20Euler/Problem7/)
 
 ## TopCoder
 
