@@ -136,6 +136,7 @@
 * [Problem 8 Largest Product in a Series](./Project%20Euler/Problem8/)
 * [Problem 9 Special Pythagorean Triplet](./Project%20Euler/Problem9/)
 * [Problem 10 Summation of Primes](./Project%20Euler/Problem10/)
+* [Problem 11 Largest Product in a Grid](./Project%20Euler/Problem11/)
 
 ## TopCoder
 
