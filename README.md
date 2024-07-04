@@ -154,6 +154,7 @@
 * Medium
   * [Check for Children Sum Property in a Binary Tree](./GeeksforGeeks/Medium/Children-sum-parent/)
   * [Minimum number of jumps](./GeeksforGeeks/Medium/Minimum-number-of-jumps/)
+  * [Indexes of Subarray Sum](./GeeksforGeeks/Medium/Indexes-of-Subarray-Sum/)
 
 * Low
   * [Min-Operations](./GeeksforGeeks/Low/Min-Operations/)
