@@ -14,6 +14,9 @@ class Solution {
         int prev = head.val;
         ListNode cur = head.next;
         int index = 1;
+        int preIndex = -1;
+        int firstIndex = -1;
+        int min = Integer.MAX_VALUE;
 
         List<Integer> criticalPts = new ArrayList<Integer>();
 
@@ -21,7 +24,15 @@ class Solution {
             int next = cur.next.val;
             if((cur.val < prev && cur.val < next) || 
                 (cur.val > prev && cur.val > next)){
-                criticalPts.add(index);
+                if(preIndex > -1){
+                    if(min > index - preIndex){
+                        min = index - preIndex;
+                    }
+                }else{
+                    firstIndex = index;
+                }
+
+                preIndex = index;
             }
 
             prev = cur.val;
@@ -29,17 +40,9 @@ class Solution {
             cur = cur.next;
         }
 
+        if(firstIndex == -1 || firstIndex == preIndex) return new int[]{-1,-1};
 
-        if(criticalPts.size() == 0 || criticalPts.size() == 1) return new int[]{-1,-1};
-
-        int max = criticalPts.get(criticalPts.size()-1) - criticalPts.get(0);
-        int min = Integer.MAX_VALUE;
-
-        for(int i = 1; i < criticalPts.size(); i ++){
-            if(min > criticalPts.get(i) - criticalPts.get(i-1)){
-                min = criticalPts.get(i) - criticalPts.get(i-1);
-            }
-        }
+        int max = preIndex - firstIndex;
 
         return new int[]{min,max};
     }
