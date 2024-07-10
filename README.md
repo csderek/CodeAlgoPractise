@@ -45,6 +45,7 @@
   * [1431. Kids With the Greatest Number of Candies](./Leetcode/Easy/Kids-With-the-Greatest-Number-of-Candies/)
   * [1461. Check If a String Contains All Binary Codes of Size K](./Leetcode/Easy/Running-sum-of-1d-array/)
   * [1518. Water Bottles](./Leetcode/Easy/Water-Bottles/)
+  * [1598. Crawler Log Folder](./Leetcode/Easy/Crawler-Log-Folder/)
   * [1732 Find the highest altitude](./Leetcode/Easy/Find-the-highest-altitude/)
   * [1768. Merge Strings Alternately](./Leetcode/Easy/Merge-Strings-Alternately/)
 
