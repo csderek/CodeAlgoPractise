@@ -118,6 +118,7 @@
 
 * Easy
   * [Power of Thor - Episode 1](./CodinGame/Easy/POWER-OF-THOR-EPISODE-1/)
+  * [Tempartures](./CodinGame/Easy/Temperatures/)
 
 ## CodeChef
 
